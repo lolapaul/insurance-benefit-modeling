@@ -1,10 +1,10 @@
-# 🧾 Insurance Benefit Modeling & Privacy Protection
+#  Insurance Benefit Modeling & Privacy Protection
 
 This project addresses four real-world tasks for a U.S.-based insurance company using machine learning and data science techniques. The focus includes prediction, classification, and protecting personal data from misuse while preserving model quality.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 1. **Customer Similarity:** Use k-NN to identify similar clients for targeted marketing.
 2. **Benefit Classification:** Predict whether a new client will receive an insurance benefit (binary classification).
@@ -13,7 +13,7 @@ This project addresses four real-world tasks for a U.S.-based insurance company 
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 - **Source:** insurance_us.csv
 - **Features:**
@@ -26,7 +26,7 @@ This project addresses four real-world tasks for a U.S.-based insurance company 
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Exploratory Data Analysis**
    - Check for missing values and outliers
@@ -50,7 +50,7 @@ This project addresses four real-world tasks for a U.S.-based insurance company 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 - Machine learning provides measurable improvements over baseline (dummy) models.
 - Class balancing improves classification performance.
@@ -59,7 +59,7 @@ This project addresses four real-world tasks for a U.S.-based insurance company 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 insurance-benefit-modeling/
@@ -71,7 +71,7 @@ insurance-benefit-modeling/
 ```
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -82,13 +82,13 @@ insurance-benefit-modeling/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *ML Pipelines, Classification, and Data Protection*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  

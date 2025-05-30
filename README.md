@@ -82,12 +82,6 @@ insurance-benefit-modeling/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *ML Pipelines, Classification, and Data Protection*
-
----
-
 ##  Author
 
 David Villanueva  
